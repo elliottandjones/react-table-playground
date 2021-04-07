@@ -71,10 +71,10 @@ function App() {
 
         </header>
         <Route path="/" exact>
-          
+          <h2>Hello World</h2>
         </Route>
         <Route path="/">
-
+          <h2>404</h2>
         </Route>
       </Router>
     </main>
